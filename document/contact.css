@@ -1,0 +1,347 @@
+
+
+#main{
+    width: 100%;
+
+}
+.corps{
+    width: 100%;
+   background-image: url(h.jpg);
+}
+#nav1{
+    width: 100%;
+    height: 80px;
+    background-color: #000;
+    opacity: 0.8;
+    line-height: 80px;
+  
+}
+
+
+#nav1 ul{
+    float: right; 
+    margin-right: 30px;
+}
+
+#nav1 ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+#nav1 ul li:hover{
+    background-color: #f39d1a; 
+    transition: 0.8s all;
+}
+#nav1 ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 30px;
+
+
+}
+
+input{
+    height: 30px;
+    width: 250px;
+}
+
+
+
+
+#image{
+    margin-top:20px;
+    width: 100%;
+    height: 400px;
+    
+
+}
+
+
+#mail{
+    width: 20px;
+    height: 20px;
+}
+#tel{
+    width: 20px;
+    height: 20px;
+}
+#lieu{
+    width: 20px;
+    height: 20px;
+}
+
+#whatsapp{
+    width: 20px;
+    height: 20px;
+}
+
+#twitter{
+    width: 40px;
+    height: 40px;
+}
+
+#insta{
+    width: 40px;
+    height: 40px;
+}
+
+#fb{
+    width: 40px;
+    height: 40px;
+}
+#youtube{
+    width: 40px;
+    height: 40px;
+}
+#carte{
+    width: 100%;
+    height: 300px;
+}
+section{
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+aside{
+    vertical-align: top;
+    border:2px inset #49af05de;
+    padding: 12px;
+	font-size: 16px;
+    font-family: "Lucida Calligraphy";
+    background-color: white;
+    
+   
+
+}
+
+label
+{
+	display: block;
+	width: 150px;
+	float: left;
+}
+
+button{
+    background-color: #21d192;
+    border: 2px inset #21d192;
+font-size: 15px;
+border-radius: 10px;
+padding: 8px 12px;
+font-size: 18px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+
+#foot{
+    width: 100%;
+    background-image: url(hotel.jpg);
+    background-size: cover;
+}
+#nav{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    opacity: 0.8;
+  
+}
+#nav ul li:hover{
+    background-color: rgb(28, 85, 5); 
+    transition: 0.5s all;
+}
+
+#infologo{
+    
+    position: absolute;
+    width: 300px;
+    height: 120px;
+    top: 50px;
+    left: 80px;
+    color: white;
+
+}
+
+#pages{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50px;
+    left: 450px;
+    color: white;
+
+}
+
+
+#contactinfo{
+    position: absolute;
+    width: 300px;
+    height:180px;
+    top: 50px;
+    left: 600px;
+    color: white;
+
+}
+
+
+#follow{
+    position: absolute;
+    width: 300px;
+    height:100px;
+    top: 50px;
+    left: 950px;
+    color: white;
+
+}
+
+
+
+
+
+#twitter{
+    width: 40px;
+    height: 40px;
+}
+
+#insta{
+    width: 40px;
+    height: 40px;
+}
+
+#fb{
+    width: 40px;
+    height: 40px;
+}
+#youtube{
+    width: 40px;
+    height: 40px;
+
+}
+li{
+    list-style-type: none;
+}
+ul li{
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+  
+}
+
+.titre{
+    font-family:Verdana;
+    font-size: 20px;
+}
+
+
+
+
+/*footer et header*/
+
+
+body{
+    font-family: 'source sans pro' sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+p{
+    margin-top: -50px;
+    font-size: 20px;
+    margin-left: 120%;
+    color:rgb(9, 158, 89);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.header{
+    background: linear-gradient(rgba(0,0,0,0,0), rgba(0,0,0,0)), url(hotel5.jpg);
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+  
+  }
+
+/*.main-title{
+    color: white;
+    text-transform:uppercase;
+    font-size: 320%;
+
+    padding-bottom: 20px;
+    font-weight: 700;
+}*/
+.contenu{
+    padding-top: 35%;
+    position: center;
+}
+.bg-light{
+    background: white ;
+}
+
+
+#twitter{
+    width: 40px;
+    height: 40px;
+}
+
+#insta{
+    width: 40px;
+    height: 40px;
+}
+
+#fb{
+    width: 40px;
+    height: 40px;
+}
+#youtube{
+    width: 40px;
+    height: 40px;
+}
+footer{
+    background: #21d192;
+    margin-top: 150px;
+}
+#hd a{
+    color: black;
+    padding-left: 40px;
+}
+#bloc   p{
+    font-size: 50px;
+    /*font-style: initial;*/
+    text-align: center;
+    margin-top: 200px;
+    font-family: Verdana;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 300px;
+    text-transform: uppercase;
+    font-weight: 700;
+} 
+#rs{
+    text-align: center;
+}
+
+
+    #hd{
+        float: left;
+        margin-left: 50%;
+    }
+
+    #hd ul li{ 
+        border-bottom   :2px inset #21d192;
+        margin-left: 50px;
+    }
+
+    #pg{
+       margin-left: 10%;
+       margin-right: 10%;
+        color: white;
+    }
+    #follow2{
+        text-align: center;
+        color: white;
+        margin-top: 30px;
+        font-size:20px;
+    }
